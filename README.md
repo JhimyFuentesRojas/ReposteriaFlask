@@ -22,8 +22,8 @@ Aplicación web de gestión para una repostería, desarrollada con Flask, Flask-
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/reposteria-flask.git
-cd reposteria-flask
+git clone https://github.com/JhimyFuentesRojas/ReposteriaFlask.git
+cd ReposteriaFlask
 
 2. Crear y activar un entorno virtual
 bash
